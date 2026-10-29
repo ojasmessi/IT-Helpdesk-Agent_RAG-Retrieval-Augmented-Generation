@@ -1,4 +1,5 @@
-![Demo](docs_screenshot.png)
+<img width="1902" height="795" alt="image" src="https://github.com/user-attachments/assets/49c0ad43-e7c9-4828-b552-81952b6fb616" />
+
 # IT Help Desk Agent — RAG + LangChain + LangGraph (beginner build)
 
 An IT support chatbot that answers from **your company's IT docs** (RAG), decides what to do with each
