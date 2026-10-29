@@ -1,0 +1,13 @@
+langchain>=1.0
+langchain-core>=1.0
+langgraph>=1.0
+langchain-text-splitters>=1.0
+langchain-chroma>=1.0
+langchain-huggingface>=1.0
+sentence-transformers>=3.0
+chainlit>=2.0
+python-dotenv>=1.0
+# LLM provider — keep the one you use:
+langchain-groq>=1.0
+langchain-ollama>=1.0
+# langchain-openai>=1.0
