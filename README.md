@@ -75,3 +75,4 @@ agent/graph.py         the LangGraph agent
 agent/tools.py         create_ticket / get_ticket_status (JSON file; swap for ServiceNow/Jira API)
 step1…step6, app.py    the learning steps
 ```
+See also the MCP + human-approval version: IT-Helpdesk-Agent-MCP-LangGraph
